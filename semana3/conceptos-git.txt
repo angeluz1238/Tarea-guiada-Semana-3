@@ -5,7 +5,10 @@ Permite mantener todo organizado y puede ser local en el computador o estar en l
 además sirve para trabajar y compartir la información del proyecto con otras personas utilizando herramientas como Git.
 
 Commit:Es una acción que guarda los cambios realizados en un proyecto dentro del historial de Git.
-Cada commit lleva un mensaje que ayuda a identificar qué modificaciones se hicieron en ese momento.Es la forma en que le dices a Git: "Guarda estos cambios con este mensaje explicativo". también nos da la opción de devolvernos a otro estado del proyecto si se cometio algún error.
+Cada commit lleva un mensaje que ayuda a identificar qué modificaciones se hicieron en ese momento.
+Es la forma en que le dices a Git: "Guarda estos cambios con este mensaje explicativo".
+también nos da la opción de devolvernos a otro estado del proyecto si se cometio algún error.
 
 Push: Es el comando que envía los cambios guardados del computador al repositorio remoto en GitHub.
-Gracias al push, otras personas pueden ver y descargar las actualizaciones realizadas en el proyecto ; tambien permite guardar cualquier cambio realizado , manteniendo la información actualizada.
+Gracias al push, otras personas pueden ver y descargar las actualizaciones realizadas en el proyecto ; 
+tambien permite guardar cualquier cambio realizado , manteniendo la información actualizada.
